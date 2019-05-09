@@ -1,0 +1,29 @@
+html{
+    margin:0;
+}
+
+body{
+    margin:0;
+    background-color: #bee1c2;
+}
+
+#header{
+    
+}
+
+#portfolio{
+    margin: 0 auto 0 auto;
+    max-width: 500px;
+}
+
+#portfolio img{
+    max-width: 500px;
+    margin:auto;
+    padding: 20px;
+}
+#portfolio p{
+    max-width: 500px;
+    margin:auto;
+    padding: 20px;
+    font-family: 'Oswald', sans-serif;
+}
